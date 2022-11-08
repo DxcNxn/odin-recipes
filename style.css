@@ -1,0 +1,23 @@
+/* css stylesheet */
+body {
+    background-color: rgb(100,149,237);
+    font-family: "Helvetica", "Times New Roman", serif;
+}
+.title {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipesList {
+
+}
+
+.recipeImg {
+    height:auto;
+    width: 300px;
+    border-style: outset;
+    border-radius: 30px;
+    border-color: azure;
+}
