@@ -6,6 +6,7 @@ body {
 .title {
     color: black;
     font-size: 40px;
+    text-transform: uppercase;
     text-align: center;
     font-weight: bold;
 }
@@ -20,4 +21,16 @@ body {
     border-style: outset;
     border-radius: 30px;
     border-color: azure;
+}
+
+.para {
+    font-size: 14px;    
+}
+
+.para .title {
+    text-align:left;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(41, 41, 41);
+    text-transform: capitalize;
 }
