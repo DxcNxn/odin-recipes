@@ -34,3 +34,11 @@ body {
     color: rgb(41, 41, 41);
     text-transform: capitalize;
 }
+
+.para .ingredientsList {
+    color: darkslateblue;
+}
+
+.para .instructionSteps {
+    color: darkmagenta;
+}
