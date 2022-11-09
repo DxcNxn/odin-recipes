@@ -1,9 +1,11 @@
 /* css stylesheet */
 body {
+    /* Apply to everything in <body> */
     background-color: rgb(100,149,237);
     font-family: "Helvetica", "Times New Roman", serif;
 }
 .title {
+    /* Apply to the main title of a page */
     color: black;
     font-size: 40px;
     text-transform: uppercase;
@@ -12,10 +14,11 @@ body {
 }
 
 .recipesList {
-
+/* not sure how to style yet; leave blank for now */
 }
 
 .recipeImg {
+    /* Apply to image(s) of a recipe page */
     height:auto;
     width: 300px;
     border-style: outset;
@@ -24,10 +27,12 @@ body {
 }
 
 .para {
+    /* Apply to a paragraph block */
     font-size: 14px;    
 }
 
 .para .title {
+    /* Apply to the title of a paragraph block */
     text-align:left;
     font-size: 20px;
     font-weight: bold;
@@ -36,9 +41,11 @@ body {
 }
 
 .para .ingredientsList {
+    /* Apply to ingredient list paragraph */
     color: darkslateblue;
 }
 
 .para .instructionSteps {
+    /* Apply to instructions list paragraph */
     color: darkmagenta;
 }
