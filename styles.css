@@ -8,26 +8,26 @@ main {
     width: 800px;
     margin: 12px auto;
     padding: 8px;
+    text-align: center;
 }
 
 h1 {
-    text-align: center;
     margin: 0 auto;
     padding: 4px;
     background-color: darkslateblue;
     color: white;
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 ul {
-    border: 1px green solid;
+    /* border: 1px green solid; */
 }
+
 .recipe {
     width: 400px;
     margin: 0px auto;
     list-style: none;
-    text-align: center;
-    border: 1px blue solid;
+    /* border: 1px blue solid; */
 }
 
 .recipe-pic {
