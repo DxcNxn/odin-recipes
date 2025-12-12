@@ -18,7 +18,7 @@ h1, h3 {
     color: white;
 }
 
-#description {
+.recipe-description {
     width: 690px;
     margin: 12px auto;
     text-align: left;
