@@ -21,6 +21,7 @@ h1, h3 {
 #description {
     width: 690px;
     margin: 12px auto;
+    text-align: left;
 }
 
 .ingredient-item {
