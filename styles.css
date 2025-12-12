@@ -18,3 +18,14 @@ h1 {
     color: white;
     border: 1px red solid;
 }
+
+ul {
+    border: 1px green solid;
+}
+.recipe {
+    width: 400px;
+    margin: 0px auto;
+    list-style: none;
+    text-align: center;
+    border: 1px blue solid;
+}
