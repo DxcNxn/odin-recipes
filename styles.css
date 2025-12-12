@@ -29,3 +29,8 @@ ul {
     text-align: center;
     border: 1px blue solid;
 }
+
+.recipe-pic {
+    width: 200px;
+    height: auto;
+}
