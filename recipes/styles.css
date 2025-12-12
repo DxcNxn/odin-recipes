@@ -10,3 +10,10 @@ main {
     padding: 8px;
     text-align: center;
 }
+
+h1, h3 {
+    margin: 0 auto;
+    padding: 4px;
+    background-color: darkslateblue;
+    color: white;
+}
