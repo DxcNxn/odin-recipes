@@ -1,0 +1,20 @@
+body {
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: antiquewhite;
+    width: 800px;
+    margin: 12px auto;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 4px;
+    background-color: darkslateblue;
+    color: white;
+    border: 1px red solid;
+}
