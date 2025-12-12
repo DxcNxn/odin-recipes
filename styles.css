@@ -34,3 +34,8 @@ ul {
     width: 200px;
     height: auto;
 }
+
+.recipe-name {
+    width: 400px;
+    margin: 4px auto 28px;
+}
