@@ -17,3 +17,13 @@ h1, h3 {
     background-color: darkslateblue;
     color: white;
 }
+
+#description {
+    width: 690px;
+    margin: 12px auto;
+}
+
+.ingredient-item {
+    list-style-type: none;
+    margin: 4px 0px;
+}
