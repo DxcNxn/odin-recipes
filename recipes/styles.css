@@ -27,3 +27,9 @@ h1, h3 {
     list-style-type: none;
     margin: 4px 0px;
 }
+
+.recipe-step {
+    width: 690px;
+    margin: 12px auto;
+    text-align: left;
+}
